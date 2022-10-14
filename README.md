@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dorian! <br/>
+<h1>Hello, I'm Dorian! <br/>
 
 <h2>👨‍💻 Information Technology Labs:</h2>
 
