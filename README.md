@@ -1,8 +1,19 @@
-### Hi there 👋
+<h1>Hi, I'm Dorian! <br/>
+
+<h2>👨‍💻 Information Technology Labs:</h2>
+
+
+<h2>📄 Certifications</h2>
+
+- [AWS Certified Cloud Practicioner](https://www.credly.com/badges/69d9b39e-5e16-4046-9518-a63316a284b8)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="DorianMoreno | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/dorian-moreno-it/
 
 <!--
-**dxriantech/dxriantech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
