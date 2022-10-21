@@ -2,10 +2,12 @@
 
 <h2>👨‍💻 Information Technology Labs:</h2>
 
+- [Active Directory Lab](https://github.com/dxriantech/ADLab)
 
 <h2>📄 Certifications</h2>
 
 - [AWS Certified Cloud Practicioner](https://www.credly.com/badges/69d9b39e-5e16-4046-9518-a63316a284b8)
+- [CompTIA A+](https://www.credly.com/badges/82d4af03-3774-4c51-b210-94322ef67df4/public_url)
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -14,7 +16,6 @@
 [linkedin]: https://www.linkedin.com/in/dorian-moreno-it/
 
 <!--
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
